@@ -92,15 +92,13 @@ Business recommendations
 
 🧩 **Customer Segments Identified**
 
-Cluster	Customer Type	Description
+| Cluster | Customer Type                 | Description                          |
+| ------- | ----------------------------- | ------------------------------------ |
+| 0       | Mid-income families           | Careful spenders, discount-focused   |
+| 1       | Premium loyal shoppers        | High income, high spending           |
+| 2       | Low-spend singles             | Browsers, price sensitive            |
+| 3       | High-value responsive singles | Most profitable, campaign responsive |
 
-0	Mid-income families	Careful spenders, discount-focused
-
-1	Premium loyal shoppers	High income, high spending
-
-2	Low-spend singles	Browsers, price sensitive
-
-3	High-value responsive singles	Most profitable, campaign responsive
 
 💡 **Business Impact**
 
