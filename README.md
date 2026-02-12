@@ -1,4 +1,4 @@
-🛒 **SmartCart Customer Segmentation System**
+# SmartCart Customer Segmentation System
 
 A Machine Learning project that uses unsupervised learning techniques to segment customers based on shopping behavior, income, demographics, and engagement patterns. The goal is to help businesses perform targeted marketing and data-driven decision-making.
 
